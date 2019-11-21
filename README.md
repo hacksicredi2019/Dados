@@ -64,7 +64,7 @@ Tabela IBGE            | https://concla.ibge.gov.br/classificacoes/por-tema/codi
  * **Memória**: Superior a 4gb 
  * **Armazenamento**: No mínimo 6gb livre  
 
-## *Obs: Caso possuir um notebook com configuração inferior, sugere-se o uso das ferramentas em ambiente cloud.
+#### Obs: Caso possuir um notebook com configuração inferior, sugere-se o uso das ferramentas em ambiente cloud.
 
 ### Ambientes em cloud 
 
