@@ -58,7 +58,6 @@ Tabela IBGE            | https://concla.ibge.gov.br/classificacoes/por-tema/codi
  
  ### Recomendações de Hardware
  
- * **Configurações Sugerida para o notebook do participante:
  * **Processador**: Core i5 ou i7 (ou equivalente)
  * **Memória**: Superior a 4gb 
  * **Armazenamento**: No mínimo 6gb livre  
@@ -72,4 +71,4 @@ Tabela IBGE            | https://concla.ibge.gov.br/classificacoes/por-tema/codi
 - https://rstudio.cloud/
 - https://databricks.com/
 
-Let's hack! 
+# Let's hack! 
