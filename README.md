@@ -55,10 +55,9 @@ Tabela IBGE            | https://concla.ibge.gov.br/classificacoes/por-tema/codi
  
  ### ANEXO II -  Questionários do Censo da Educação Basica
  Nesta pasta estão uma visão dos tipos de dados que podem ser encontrados nos datasets. 
+  
  
- 
- 
- ### outras recomendações
+ ### Recomendações de Hardware
  
  * **Configurações Sugerida para o notebook do participante:
  * **Processador**: Core i5 ou i7 (ou equivalente)
@@ -67,7 +66,8 @@ Tabela IBGE            | https://concla.ibge.gov.br/classificacoes/por-tema/codi
 
 * Caso possuir um notebook com configuração inferior, sugere-se o uso das ferramentas em ambiente cloud.
 
-Ambientes em cloud
+**Ambientes em cloud 
+
 - https://colab.research.google.com/ 
 - https://jupyter.org/try
 - https://rstudio.cloud/
