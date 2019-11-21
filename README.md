@@ -41,6 +41,7 @@ Tabela IBGE            | https://concla.ibge.gov.br/classificacoes/por-tema/codi
 
 ### Estes dados estão disponíveis na pasta DATASET.
 *Formato dos arquivos: **CSV**
+
 *Separador: pipe ( | )
 
 ### ANEXO I - Dicionário de Dados e Tabelas Auxiliares
@@ -59,15 +60,12 @@ Tabela IBGE            | https://concla.ibge.gov.br/classificacoes/por-tema/codi
  
  ### outras recomendações
  
- **Configurações Sugerida para o notebook do participante:
- 
- **Processador**: Core i5 ou i7 (ou equivalente)
- 
- **Memória**: Superior a 4gb 
- 
- **Armazenamento**: No mínimo 6gb livre  
+ * **Configurações Sugerida para o notebook do participante:
+ * **Processador**: Core i5 ou i7 (ou equivalente)
+ * **Memória**: Superior a 4gb 
+ * **Armazenamento**: No mínimo 6gb livre  
 
- * Caso possuir um notebook com configuração inferior, sugere-se o uso das ferramentas em ambiente cloud.
+* Caso possuir um notebook com configuração inferior, sugere-se o uso das ferramentas em ambiente cloud.
 
 Ambientes em cloud
 - https://colab.research.google.com/ 
