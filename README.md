@@ -39,7 +39,7 @@ Tabela IBGE            | https://concla.ibge.gov.br/classificacoes/por-tema/codi
 
 *	**DOCENTES:** Informações cadastrais / curriculares dos professores.
 
-**Estes dados estão disponíveis na pasta DATASET.**
+### Estes dados estão disponíveis na pasta DATASET.
 *Formato dos arquivos: **CSV**
 *Separador: pipe ( | )
 
@@ -58,9 +58,13 @@ Tabela IBGE            | https://concla.ibge.gov.br/classificacoes/por-tema/codi
  
  
  ### outras recomendações
- **Configurações Sugerida para o notebook do participante: **
+ 
+ **Configurações Sugerida para o notebook do participante:
+ 
  **Processador**: Core i5 ou i7 (ou equivalente)
+ 
  **Memória**: Superior a 4gb 
+ 
  **Armazenamento**: No mínimo 6gb livre  
 
  * Caso possuir um notebook com configuração inferior, sugere-se o uso das ferramentas em ambiente cloud.
