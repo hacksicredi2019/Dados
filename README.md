@@ -2,7 +2,7 @@
 
 Juntos por TRANSPARÊNCIA e DADOS abertos para a EDUCAÇÃO.
 
-**Esta área se destina a auxiliar os participantes a conhecer mais sobre os dados da Educação. **
+### Esta área se destina a auxiliar os participantes a conhecer mais sobre os dados da Educação.
 
 ## Dados da Educação
 
@@ -47,18 +47,16 @@ Tabela IBGE            | https://concla.ibge.gov.br/classificacoes/por-tema/codi
  Nesta pasta estão dados que vão te ajudar a entender os dados e as dimensões. 
   
   * **Dicionário de Dados da Educação Básica.xlsx** - Clássico dicionários de dados.
-  
   * **Filtros da Educação Básica.pdf** - Relacionamento entre tabelas e orientações gerais para o uso.
-  
   * **Leia-me - Dicas Importação.pdf** - Orientações para importação dos datasets.
-  
   * **Tabelas do IBGE** - Útil ao verificar o código das cidades ou regiões.
   
  
  ### ANEXO II -  Questionários do Censo da Educação Basica
  Nesta pasta estão uma visão dos tipos de dados que podem ser encontrados nos datasets. 
  
-  
+ 
+ 
  ### outras recomendações
  **Configurações Sugerida para o notebook do participante: **
  **Processador**: Core i5 ou i7 (ou equivalente)
