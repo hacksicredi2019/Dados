@@ -2,7 +2,7 @@
 
 Juntos por TRANSPARÊNCIA e DADOS abertos para a EDUCAÇÃO.
 
-**Esta área se destina a auxiliar os participantes a conhecer mais sobre os dados. **
+**Esta área se destina a auxiliar os participantes a conhecer mais sobre os dados da Educação. **
 
 ## Dados da Educação
 
@@ -32,8 +32,11 @@ Tabela IBGE            | https://concla.ibge.gov.br/classificacoes/por-tema/codi
 ## Detalhamento do Dataset: *Censo Escolar 2018*
 
 *	**ESCOLAS:** Informações cadastrais das escolas, infraestrutura e lotação.
+
 * **TURMAS:** Considera os dados sobre o movimento e rendimento escolar dos alunos, ao final do ano letivo.
+
 *	**MATRÍCULAS:** Dados de escolas, gestores, turmas, alunos e profissionais escolares em sala de aula, de todos os estabelecimentos públicos e privados de educação básica e educação profissional 
+
 *	**DOCENTES:** Informações cadastrais / curriculares dos professores.
 
 **Estes dados estão disponíveis na pasta DATASET.**
@@ -43,10 +46,14 @@ Tabela IBGE            | https://concla.ibge.gov.br/classificacoes/por-tema/codi
 ### ANEXO I - Dicionário de Dados e Tabelas Auxiliares
  Nesta pasta estão dados que vão te ajudar a entender os dados e as dimensões. 
   
-  * **Dicionário de Dados da Educação Básica.xlsx** = Clássico dicionários de dados.
-  * **Filtros da Educação Básica.pdf** = Relacionamento entre tabelas e orientações gerais para o uso.
-  * **Leia-me - Dicas Importação.pdf** = Orientações para importação dos datasets.
-  * **Tabelas do IBGE** = Útil ao verificar o código das cidades ou regiões.
+  * **Dicionário de Dados da Educação Básica.xlsx** - Clássico dicionários de dados.
+  
+  * **Filtros da Educação Básica.pdf** - Relacionamento entre tabelas e orientações gerais para o uso.
+  
+  * **Leia-me - Dicas Importação.pdf** - Orientações para importação dos datasets.
+  
+  * **Tabelas do IBGE** - Útil ao verificar o código das cidades ou regiões.
+  
  
  ### ANEXO II -  Questionários do Censo da Educação Basica
  Nesta pasta estão uma visão dos tipos de dados que podem ser encontrados nos datasets. 
