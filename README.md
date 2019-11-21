@@ -40,9 +40,8 @@ Tabela IBGE            | https://concla.ibge.gov.br/classificacoes/por-tema/codi
 *	**DOCENTES:** Informações cadastrais / curriculares dos professores.
 
 ### Estes dados estão disponíveis na pasta DATASET.
-*Formato dos arquivos: **CSV**
-
-*Separador: pipe ( | )
+* Formato dos arquivos: **CSV**
+* Separador: pipe ( | )
 
 ### ANEXO I - Dicionário de Dados e Tabelas Auxiliares
  Nesta pasta estão dados que vão te ajudar a entender os dados e as dimensões. 
