@@ -66,7 +66,7 @@ Tabela IBGE            | https://concla.ibge.gov.br/classificacoes/por-tema/codi
 
 * Caso possuir um notebook com configuração inferior, sugere-se o uso das ferramentas em ambiente cloud.
 
-**Ambientes em cloud 
+### Ambientes em cloud 
 
 - https://colab.research.google.com/ 
 - https://jupyter.org/try
