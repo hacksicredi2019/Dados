@@ -40,6 +40,7 @@ Tabela IBGE            | https://concla.ibge.gov.br/classificacoes/por-tema/codi
 *	**DOCENTES:** Informações cadastrais / curriculares dos professores.
 
 ### Estes dados estão disponíveis na pasta DATASET.
+* Contém dados apenas de Porto Alegre.
 * Formato dos arquivos: **CSV**
 * Separador: pipe ( | )
 
